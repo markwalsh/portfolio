@@ -13,9 +13,9 @@ function Spirit() {
         <div className="titletext2">Mark Walsh</div>
         <div className="bodytext2">
           I've been developing websites professionally since 1994. For 20 years
-          I was a professional game developer for Disney among others. At
+          I was a professional game developer for Disney, Namco, Google among others. At
           Facebook and Google I developed educational content and gamification.
-          I'm expert level with OOP code and Adobe content creation tools. I
+          I'm expert level with Javascript code and Adobe content creation tools. I
           love science and the arts, people and animals.
         </div>
       </div>
